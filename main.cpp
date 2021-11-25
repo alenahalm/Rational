@@ -1,5 +1,4 @@
 #include "rational.h"
-#include "rational_class.cpp"
 #include <iostream>
 #include <cmath>
 
